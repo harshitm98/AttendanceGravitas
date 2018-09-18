@@ -83,3 +83,4 @@ for absent in absentees:
 for i in range(0, 5):
     print("Number of people present for {} sessions are {}".format(i, total_attendance_status[i]))
 
+
